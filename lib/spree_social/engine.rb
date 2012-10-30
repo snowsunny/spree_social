@@ -2,7 +2,7 @@ module SpreeSocial
   OAUTH_PROVIDERS = [
     ["Facebook", "facebook"],
     ["Twitter", "twitter"],
-    ["Github", "github"]
+    ["Github", "github"],
     ["Yahoo!", "yahoo"]
   ]
 
