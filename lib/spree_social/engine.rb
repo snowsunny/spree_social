@@ -3,7 +3,7 @@ module SpreeSocial
     ["Facebook", "facebook"],
     ["Twitter", "twitter"],
     ["Github", "github"],
-    ["Yahoo!", "yahoo"]
+    ["Yahoo! JAPAN", "yahoo-japan"]
   ]
 
   class Engine < Rails::Engine
